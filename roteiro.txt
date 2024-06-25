@@ -1,0 +1,31 @@
+Projeto
+Desenvolvendo sua Primeira API com FastAPI, Python e Docker
+
+Descrição
+Neste projeto vou apresentar uma poderosa API assíncrona de um academia para uma competição de crossfit. Usando o framework FastAPI, que irá permitir a construção eficiente desse aplicativo web, moderno, que entender e lidar com operações simultâneas de maneira eficaz e escalável.
+
+Tecnologia:
+Python
+FastAPI
+
+Nível Intermediário: 
+Full-Stack
+
+
+Outras Tecnologias
+Docker
+Docker-compose
+Postman
+
+Bibliotecas:
+alembic
+SQLAlchemy
+pydantic
+
+
+Banco de dados:
+postgresql
+
+
+
+
