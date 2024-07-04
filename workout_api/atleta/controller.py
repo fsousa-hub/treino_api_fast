@@ -15,6 +15,6 @@ async def post(
     db_session: DatabaseDependency,
     atleta_in: AtletaIn = Body(...)
 
-):
+) -> AtletaIn:
     pass
 
